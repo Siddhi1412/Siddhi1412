@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Siddhi</h1>
-<h3 align="center">A tech enthusiast on a journey to become a skilled Python & backend developer</h3>
+<h3 align="center">A tech enthusiast on a journey to become a skilled Python & Backend Developer</h3>
 
 ---
 
 ### 💡 About Me
+
 - 🎯 Passionate about building real-world projects
 - 💻 I enjoy solving problems & deploying full-stack apps
-- 🌱 Currently sharpening my skills in backend dev (Flask, Node.js)
-- 📫 How to reach me: siddhikatkar2003@gmail.com
-- 🔗 Portfolio/project links: [Render Projects](https://bino-chat-app.onrender.com) | [GitHub](https://github.com/Siddhi1412)
+- 🌱 Currently sharpening my skills in backend development (Flask, Node.js)
+- 🔭 Recently built a WhatsApp-style chatbot: [Live Demo – Bino](https://bino-chat-app.onrender.com)
+- 📫 How to reach me: siddhikatkar2424@gmail.com
+- 🔗 Explore more projects: [GitHub](https://github.com/Siddhi1412)
 
 ---
 
 ### 🧰 Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,26 +28,25 @@
 
 ---
 
-### 🔭 Current Learning Tracker
+### 🎯 Learning Tracker
 
 #### ✅ Recently Learned
-- Basics of Git & GitHub
-- HTML, CSS
-- JavaScript fundamentals
-- Flask APIs and deployment
-- Render hosting
+- Git & GitHub basics
+- HTML, CSS, and JavaScript
+- Flask API creation & deployment
+- Hosting apps on Render
 
-#### 📚 Current Focus
-- Backend with Python (Flask & FastAPI)
-- Real-world project building
-- Connecting frontend with backend
-- Understanding database integration
+#### 📚 Currently Focusing On
+- Backend with Python (Flask, FastAPI)
+- Real-world backend projects
+- Frontend + backend integration
+- Database integration (SQL & NoSQL)
 
-#### 🔜 Next in Line
-- React.js basics
+#### 🛣️ Upcoming Learning Goals
 - MongoDB & PostgreSQL
-- TypeScript intro
-- Docker (basics)
+- React.js fundamentals
+- TypeScript basics
+- Docker (intro)
 
 ---
 
@@ -66,12 +68,11 @@
 
 ### 📫 Let's Connect
 
-<a href="https://linkedin.com/in/siddhikatkar" target="_blank">
+<a href="https://www.linkedin.com/in/siddhi-katkar01/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:siddhikatkar2003@gmail.com">
+<a href="mailto:siddhikatkar2424@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ---
-
