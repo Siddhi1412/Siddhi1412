@@ -37,6 +37,8 @@
 - Hosting apps on Render
 
 #### 📚 Currently Focusing On
+- Excel
+- PowerBI
 - Backend with Python (Flask, FastAPI)
 - Real-world backend projects
 - Frontend + backend integration
