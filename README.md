@@ -5,12 +5,12 @@
 
 ### 💡 About Me
 
-- 🎯 Passionate about building real-world projects  
-- 💻 I enjoy solving problems & deploying full-stack apps  
-- 🌱 Currently sharpening my skills in backend development (Flask, Node.js)  
-- 🔭 Recently built a WhatsApp-style chatbot: [Live Demo – Bino](https://bino-chat-app.onrender.com)  
-- 📫 How to reach me: siddhikatkar2424@gmail.com  
-- 🔗 Explore more projects: [GitHub](https://github.com/Siddhi1412)  
+- 🎯 Passionate about building real-world projects
+- 💻 I enjoy solving problems & deploying full-stack apps
+- 🌱 Currently sharpening my skills in backend development (Flask, Node.js)
+- 🔭 Recently built a WhatsApp-style chatbot: [Live Demo – Bino](https://bino-chat-app.onrender.com)
+- 📫 How to reach me: siddhikatkar2424@gmail.com
+- 🔗 Explore more projects: [GitHub](https://github.com/Siddhi1412)
 
 ---
 
@@ -31,40 +31,39 @@
 ### 🎯 Learning Tracker
 
 #### ✅ Recently Learned
-- Git & GitHub basics  
-- HTML, CSS, and JavaScript  
-- Flask API creation & deployment  
-- Hosting apps on Render  
+- Git & GitHub basics
+- HTML, CSS, and JavaScript
+- Flask API creation & deployment
+- Hosting apps on Render
 
 #### 📚 Currently Focusing On
-- Excel  
-- PowerBI  
-- Backend with Python (Flask, FastAPI)  
-- Real-world backend projects  
-- Frontend + backend integration  
-- Database integration (SQL & NoSQL)  
+- Excel
+- PowerBI
+- Backend with Python (Flask, FastAPI)
+- Real-world backend projects
+- Frontend + backend integration
+- Database integration (SQL & NoSQL)
 
 #### 🛣️ Upcoming Learning Goals
-- MongoDB & PostgreSQL  
-- React.js fundamentals  
-- TypeScript basics  
-- PowerBI
-  
+- MongoDB & PostgreSQL
+- React.js fundamentals
+- TypeScript basics
+- Docker (intro)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhi1412&show_icons=true&count_private=true&theme=radical" alt="Siddhi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhi1412&show_icons=true&theme=default" alt="Siddhi's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhi1412&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Siddhi1412&theme=default" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddhi1412&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Siddhi1412&theme=flat" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -77,3 +76,5 @@
 <a href="mailto:siddhikatkar2424@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+---
